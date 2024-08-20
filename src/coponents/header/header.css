@@ -1,0 +1,32 @@
+
+.link{
+    margin:0rem 2.7rem ;
+    font-size: 16px;
+    font-family: "ABeeZee", sans-serif;
+    transition: 0.5s;
+    text-decoration: none;
+    color: #000; 
+}
+.nav-gap a:hover{
+    color: red;
+}
+.cus-btn{
+    padding: 18px 59px 18px 107px !important;
+    border-radius: 50px !important;
+    border: 1px solid red !important;
+    background-color: #ffffff !important;
+    color: red !important;
+    transition: 0.5s;
+}
+.cus-btn:hover{
+    background-color: red !important;
+    color: #ffffff !important;
+}
+.icon-btn{
+    position: relative;
+}
+.iconbtn {
+    position: absolute;
+    top: 37%;
+    left: 22%;
+}

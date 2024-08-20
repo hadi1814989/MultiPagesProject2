@@ -1,0 +1,17 @@
+#footer{
+    margin-bottom: 139px;
+}
+.footer-card{
+   padding: 30px 37px 22px 99px !important;
+   background-color: #FAD0BC !important;
+}
+.div{
+    position: relative;
+}
+.footer-img {
+    position: absolute;
+    top: 44%;
+    left: 10%;
+    width: 29px;
+    height: 35px;
+}

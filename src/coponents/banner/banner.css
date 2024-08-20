@@ -1,0 +1,55 @@
+#banner{
+    padding-top: 94px;
+    padding-bottom: 109px;
+}
+.cus-btn1-ban{
+    padding: 9px 9px 9px 43px !important;
+    border-radius: 50px !important;
+    background-color: #ffffff !important;
+    color: #000 !important;
+    border:  1px solid #000 !important;
+}
+.button{
+    position: relative;
+}
+.bell {
+    position: absolute;
+    top: 21%;
+    left: 2%;
+    z-index: 1;
+}
+.round {
+    position: absolute;
+    top: 10%;
+    left: 1%;
+}
+#banner h2{
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    padding-top: 35px;
+    padding-bottom: 32px;
+}
+#banner p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 37px;
+}
+.cus-btn2-ban{
+    padding: 9px 23px 9px 33px !important;
+    border-radius: 5px !important;
+    background-color: #ffffff !important;
+    border: 1px solid red !important;
+    color:  red !important;
+    transition: 0.5s;
+}
+.cus-btn2-ban:hover{
+    color: #ffffff !important;
+    background-color: red !important;
+}
+.ban-img{
+    width: 451px !important;
+    height: 415px
+}
+   
